@@ -1,5 +1,7 @@
-yii2-dynamicform
+yii2-dynamicform fork
 ===================
+
+Fix all dynamicform javascript errors with kartik select2
 
 [![Latest Version](https://img.shields.io/github/release/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://github.com/wbraganca/yii2-dynamicform/releases)
 [![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -17,13 +19,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist wbraganca/yii2-dynamicform "*"
+php composer.phar require --prefer-dist sviluppo/yii2-dynamicform "*"
 ```
 
 or add
 
 ```
-"wbraganca/yii2-dynamicform": "*"
+"sviluppo/yii2-dynamicform": "*"
 ```
 
 to the require section of your `composer.json` file.
